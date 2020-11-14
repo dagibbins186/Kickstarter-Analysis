@@ -13,8 +13,8 @@ The chart "Distribution of Goals and Pledges for Musicals in Great Britain" exmp
 Finally, in addition to looking at location, this analysis also examined the timing of theater kickstarters.
 ![Outcome_Based_on_Launch_Date](https://github.com/dagibbins186/Kickstarter-Analysis/blob/main/Kickstarter%20Graphs/Outcome_Based_on_Launch_Date.png)
 The chart "Outcome Based on Launch Date" displays the outcomes of theater kickstarters over years, across all countries. Quarter 2 (Q2) consistently fared better than Quarter 1 (Q1), Quarter 3 (Q3) or Quarter 4 (Q4). In Q2, 282 (65%) kickstarters took place successfuly versus 156 (56%) kickstarters in Q4. Whereas failed and canceled theater kickstarters stayed steady across the year, successful kickstarters had improved outcomes based on the time of the year.
-<p>**In conclusion, the following is recommended to achieve kickstarter success:**</p>
-**1. Focus kickstarters on theater in Great Britain**
-**2. Invest in plays versus musicals**
-**3. Time kickstarters to occur during Q2**
-**4. Watch reviews, as this can influence play's branding and audience's interest**
+<p> **In conclusion, the following is recommended to achieve kickstarter success:** </p>
+<p> **1. Focus kickstarters on theater in Great Britain** <p/>
+<p> **2. Invest in plays versus musicals** <p/>
+<p> **3. Time kickstarters to occur during Q2** <p/P
+<p> **4. Watch reviews, as this can influence play's branding and audience's interest** <p/>

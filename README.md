@@ -14,3 +14,4 @@ In addition to looking at location, this analysis also examined the timing of th
 <p> </p>
 ![Outcome_Based_on_Launch_Date](https://github.com/dagibbins186/Kickstarter-Analysis/blob/main/Kickstarter%20Graphs/Outcome_Based_on_Launch_Date.png)
 The chart "Outcome Based on Launch Date" displays the outcomes of theater kickstarters over years, across all countries. Quarter 2 (Q2) consistently fared better than Quarter 1 (Q1), Quarter 3 (Q3) or Quarter 4 (Q4). In Q2, 282 (65%) kickstarters took place successfuly versus 156 (56%) kickstarters in Q4. Whereas failed and canceled theater kickstarters stayed steady across the year, successful kickstarters had improved outcomes based on the time of the year.
+The distribution of goals versus pledges.

@@ -9,9 +9,10 @@ The chart "Subcategory and Outcome Across Great Britain" reveals the subcategory
 ![Edinburgh_Research](https://github.com/dagibbins186/Kickstarter-Analysis/blob/main/Kickstarter%20Graphs/Edinburgh_Research.png)
 <p>Figure A</p>
 Above, figure A expounds upon the success of plays in Great Britain by looking at theater reviews in Edinburgh, the second largest financial centre in Great Britain. Among 5 plays ("Be Prepared", "Checkpoint 22", "Cutting off Kate Bush", "Jestia and Raedon", "The Hitchhiker's Guide to the Family"), the median pledge was $2,020 while the median goal was $2,000. Reviews commonly highlighted one man shows, comedy, love and loss. While more qualitative analytis is needed to draw firm conclusions, well-reviewed plays seem to draw pledges.
+![Distribution%20of%20Goals%20and%20Pledges%20for%20Musicals%20in%20Great%20Britain](https://github.com/dagibbins186/Kickstarter-Analysis/blob/main/Kickstarter%20Graphs/Distribution%20of%20Goals%20and%20Pledges%20for%20Musicals%20in%20Great%20Britain.png)
+The chart "Distribution of Goals and Pledges for Musicals in Great Britain" exmplifies that that the subcategory of theater matters. The orange box represents the distribution of pledges for musicals while the blue box represents the distribution of goals for musicals. The pledged box indicates that 25% of musicals receive no pledges. Three quarters of pledges fall almost 4x short of their goals. While an occasional large pledge is given, it is often far outside the masses of pledges.
 <p> </p>
-In addition to looking at location, this analysis also examined the timing of theater kickstarters.
+Finally, in addition to looking at location, this analysis also examined the timing of theater kickstarters.
 <p> </p>
 ![Outcome_Based_on_Launch_Date](https://github.com/dagibbins186/Kickstarter-Analysis/blob/main/Kickstarter%20Graphs/Outcome_Based_on_Launch_Date.png)
 The chart "Outcome Based on Launch Date" displays the outcomes of theater kickstarters over years, across all countries. Quarter 2 (Q2) consistently fared better than Quarter 1 (Q1), Quarter 3 (Q3) or Quarter 4 (Q4). In Q2, 282 (65%) kickstarters took place successfuly versus 156 (56%) kickstarters in Q4. Whereas failed and canceled theater kickstarters stayed steady across the year, successful kickstarters had improved outcomes based on the time of the year.
-The distribution of goals versus pledges.
